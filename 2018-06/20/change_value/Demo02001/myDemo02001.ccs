@@ -1,0 +1,15 @@
+<Solution>
+  <PropertyGroup Name="myDemo02001" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Image Name="background.png" />
+        <Image Name="HelloWorld.png" />
+        <Project Name="Layer.csd" Type="Layer" />
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Project Name="Scene.csd" Type="Scene" />
+        <Image Name="start-bg.jpg" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
