@@ -1,0 +1,27 @@
+<Solution>
+  <PropertyGroup Name="myDemo02001" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Image Name="11.png" />
+        <Image Name="22.png" />
+        <Image Name="33.png" />
+        <Image Name="background.png" />
+        <Image Name="HelloWorld.png" />
+        <Project Name="Layer.csd" Type="Layer" />
+        <Project Name="Layer1.csd" Type="Layer" />
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Project Name="Scene.csd" Type="Scene" />
+        <Image Name="start-bg.jpg" />
+        <Project Name="Rank.csd" Type="Layer" />
+        <Folder Name="ui">
+          <Image Name="bg_frame.png" />
+          <Image Name="bg_item.png" />
+          <Image Name="bg_window.png" />
+          <Image Name="btn_walk.png" />
+        </Folder>
+        <Project Name="Layer2.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
