@@ -1,0 +1,27 @@
+<Solution>
+  <PropertyGroup Name="Demo01000" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="ui">
+          <Image Name="background.png" />
+          <Image Name="button.png" />
+          <Image Name="button_p.png" />
+          <Image Name="buttonBackground.png" />
+          <Image Name="image.png" />
+          <Image Name="ribbon.png" />
+          <Image Name="selected01.png" />
+          <Image Name="selected02.png" />
+        </Folder>
+        <Image Name="HelloWorld.png" />
+        <Project Name="MainScene.csd" Type="Scene" />
+        <File Name="resH.csb" />
+        <File Name="resV.csb" />
+        <Folder Name="NewFolder" />
+        <Project Name="Layer1.csd" Type="Layer" />
+        <Project Name="Node.csd" Type="Node" />
+        <Project Name="Layer.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
