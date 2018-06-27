@@ -1,0 +1,88 @@
+
+#encoding:utf-8
+
+#出现can't decode 之类的错误，就用这种方式来写
+
+import  sys
+reload(sys)
+sys.setdefaultencoding("utf8")
+
+
+import urllib
+import  urllib2
+import json
+
+from bs4 import BeautifulSoup
+
+
+#获取所有的标签
+url="https://movie.douban.com/j/search_tags?type=movie"
+
+request=urllib2.Request(url=url)
+response=urllib2.urlopen(request,timeout=20)
+result=response.read()
+
+#加载json为字典
+
+result=json.loads(result)
+tags=result['tags']
+
+
+
+#定义一个列表来存储电影的信息
+movies=[]
+
+#处理每个tag
+
+for tag in tags:
+    start=0
+    #不断请求，直到返回的结果为空
+    fw=open("movies.txt","w")
+    while True:
+        #不断拼接需要请求的链接，包括标签和开始编号
+        url="https://movie.douban.com/j/search_subjects?type=movie&tag="\
+            +tag+"&sort=recommend&page_limit=20&page_start="+str(start)
+
+        #print url
+        request=urllib2.Request(url=url)
+        response=urllib2.urlopen(request,timeout=200)
+        result=response.read()
+        fw.write(result + "\r")
+        result=json.loads(result)
+        print result
+
+
+
+        #首先，先在浏览器中访问API,观察打印出来的json的结构
+        #然后在python中取出需要的值
+
+        result=result["subjects"]
+
+
+        #返回的结果为空的话，说明列表里面已经没有数据了
+        #完成一个标签的处理之后，立即退出循环
+
+        if len(result)==0 :
+            break
+
+        #将每一条数据都加入movies
+        for item in result:
+            movies.append(item)
+
+
+        #使用这个Url 一定要记得必须要修改条件
+        #这里需要修改的值为start的值
+
+
+        start+=20
+
+
+#看看一共获取到了多少个电影
+print  len(movies)
+
+
+
+
+
+
+
