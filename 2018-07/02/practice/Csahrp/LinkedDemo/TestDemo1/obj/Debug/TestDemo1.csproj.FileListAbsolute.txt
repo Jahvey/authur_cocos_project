@@ -1,0 +1,2 @@
+c:\users\administrator\documents\visual studio 2013\Projects\DSProject\Array\TestDemo1\TestDemo1\bin\Debug\TestDemo1.exe.config
+C:\Users\Administrator\documents\visual studio 2013\Projects\DSProject\Array\TestDemo1\TestDemo1\obj\Debug\TestDemo1.csprojResolveAssemblyReference.cache
