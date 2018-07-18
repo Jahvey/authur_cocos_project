@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2013\Projects\CSharpProject0\chapter02\bin\Debug\chapter02.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\CSharpProject0\chapter02\bin\Debug\chapter02.exe
+c:\users\administrator\documents\visual studio 2013\Projects\CSharpProject0\chapter02\bin\Debug\chapter02.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\CSharpProject0\chapter02\obj\Debug\chapter02.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\CSharpProject0\chapter02\obj\Debug\chapter02.exe
+c:\users\administrator\documents\visual studio 2013\Projects\CSharpProject0\chapter02\obj\Debug\chapter02.pdb
