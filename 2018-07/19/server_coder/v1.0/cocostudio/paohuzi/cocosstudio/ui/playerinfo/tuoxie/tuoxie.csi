@@ -1,0 +1,17 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="tuoxie" Type="Plist" ID="4d8595db-13d7-42cb-ac4c-0369033a0a4c" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Animation/tuoxie/tuoxie0_03.png" />
+      <FilePathData Path="Animation/tuoxie/tuoxie0_06.png" />
+      <FilePathData Path="Animation/tuoxie/tuoxie0_08.png" />
+      <FilePathData Path="Animation/tuoxie/tuoxie0_14.png" />
+      <FilePathData Path="Animation/tuoxie/tuoxie0_15.png" />
+      <FilePathData Path="Animation/tuoxie/tuoxie0_17.png" />
+      <FilePathData Path="Animation/tuoxie/tuoxie0_19.png" />
+      <FilePathData Path="Animation/tuoxie/tuoxie0_22.png" />
+      <FilePathData Path="Animation/tuoxie/tuoxie0_23.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

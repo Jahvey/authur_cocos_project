@@ -1,0 +1,6 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="daizi_xi" Type="Plist" ID="837dae50-e7c9-4713-8872-0df27c344344" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <MaxSize Width="256" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

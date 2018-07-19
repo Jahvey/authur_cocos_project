@@ -1,0 +1,30 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="Plist" Type="Plist" ID="4905a8cc-dcba-49f3-b9d4-9ea1aa837641" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="ui/newhall/dating/yanhua/yanhua_00005.png" />
+      <FilePathData Path="ui/newhall/dating/yanhua/yanhua_00008.png" />
+      <FilePathData Path="ui/newhall/dating/yanhua/yanhua_00011.png" />
+      <FilePathData Path="ui/newhall/dating/yanhua/yanhua_00014.png" />
+      <FilePathData Path="ui/newhall/dating/yanhua/yanhua_00017.png" />
+      <FilePathData Path="ui/newhall/dating/yanhua/yanhua_00020.png" />
+      <FilePathData Path="ui/newhall/dating/yanhua/yanhua_00023.png" />
+      <FilePathData Path="ui/newhall/dating/yanhua/yanhua_00026.png" />
+      <FilePathData Path="ui/newhall/dating/yanhua/yanhua_00029.png" />
+      <FilePathData Path="ui/newhall/dating/yanhua/yanhua_00032.png" />
+      <FilePathData Path="ui/newhall/dating/yanhua/yanhua_00035.png" />
+      <FilePathData Path="ui/newhall/dating/yanhua/yanhua_00038.png" />
+      <FilePathData Path="ui/newhall/dating/yanhua/yanhua_00041.png" />
+      <FilePathData Path="ui/newhall/dating/yanhua/yanhua_00044.png" />
+      <FilePathData Path="ui/newhall/dating/yanhua/yanhua_00047.png" />
+      <FilePathData Path="ui/newhall/dating/yanhua/yanhua_00050.png" />
+      <FilePathData Path="ui/newhall/dating/yanhua/yanhua_00053.png" />
+      <FilePathData Path="ui/newhall/dating/yanhua/yanhua_00056.png" />
+      <FilePathData Path="ui/newhall/dating/yanhua/yanhua_00059.png" />
+      <FilePathData Path="ui/newhall/dating/yanhua/yanhua_00062.png" />
+      <FilePathData Path="ui/newhall/dating/yanhua/yanhua_00065.png" />
+      <FilePathData Path="ui/newhall/dating/yanhua/yanhua_00068.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

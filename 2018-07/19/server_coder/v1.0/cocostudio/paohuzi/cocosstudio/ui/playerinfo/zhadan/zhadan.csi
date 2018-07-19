@@ -1,0 +1,28 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="zhadan" Type="Plist" ID="b86d6fa4-d1c0-47e4-84b8-4a76bcd112af" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Animation/zhadan/zhadan-f1.png" />
+      <FilePathData Path="Animation/zhadan/zhadan-f2.png" />
+      <FilePathData Path="Animation/zhadan/zhadan-f3.png" />
+      <FilePathData Path="Animation/zhadan/zhadan-f4.png" />
+      <FilePathData Path="Animation/zhadan/zhadan-f5.png" />
+      <FilePathData Path="Animation/zhadan/zhadan-hei.png" />
+      <FilePathData Path="Animation/zhadan/zhadan-x1.png" />
+      <FilePathData Path="Animation/zhadan/zhadan-x2.png" />
+      <FilePathData Path="Animation/zhadan/zhadan-x3.png" />
+      <FilePathData Path="Animation/zhadan/zhadan-x4.png" />
+      <FilePathData Path="Animation/zhadan/zhadan-x5.png" />
+      <FilePathData Path="Animation/zhadan/zhadan-x6.png" />
+      <FilePathData Path="Animation/zhadan/zhadan-x7.png" />
+      <FilePathData Path="Animation/zhadan/zhadan-x8.png" />
+      <FilePathData Path="Animation/zhadan/zhadan-x9.png" />
+      <FilePathData Path="Animation/zhadan/zhadan-xx.png" />
+      <FilePathData Path="Animation/zhadan/zhadan-yz.png" />
+      <FilePathData Path="Animation/zhadan/zhadan-z1.png" />
+      <FilePathData Path="Animation/zhadan/zhadan-zz1.png" />
+      <FilePathData Path="Animation/zhadan/zhadan-zz2.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

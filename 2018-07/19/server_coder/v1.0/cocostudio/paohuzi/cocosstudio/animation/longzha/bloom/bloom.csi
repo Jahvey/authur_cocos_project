@@ -1,0 +1,40 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="bloom" Type="Plist" ID="bb29efa6-a5a0-4188-829f-f1ca2e8bb0c4" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="animation/longzha/bloom/bloom_00000.png" />
+      <FilePathData Path="animation/longzha/bloom/bloom_00001.png" />
+      <FilePathData Path="animation/longzha/bloom/bloom_00002.png" />
+      <FilePathData Path="animation/longzha/bloom/bloom_00003.png" />
+      <FilePathData Path="animation/longzha/bloom/bloom_00004.png" />
+      <FilePathData Path="animation/longzha/bloom/bloom_00005.png" />
+      <FilePathData Path="animation/longzha/bloom/bloom_00006.png" />
+      <FilePathData Path="animation/longzha/bloom/bloom_00007.png" />
+      <FilePathData Path="animation/longzha/bloom/bloom_00008.png" />
+      <FilePathData Path="animation/longzha/bloom/bloom_00009.png" />
+      <FilePathData Path="animation/longzha/bloom/bloom_00010.png" />
+      <FilePathData Path="animation/longzha/bloom/bloom_00011.png" />
+      <FilePathData Path="animation/longzha/bloom/bloom_00012.png" />
+      <FilePathData Path="animation/longzha/bloom/bloom_00013.png" />
+      <FilePathData Path="animation/longzha/bloom/bloom_00014.png" />
+      <FilePathData Path="animation/longzha/bloom/bloom_00015.png" />
+      <FilePathData Path="animation/longzha/bloom/bloom_00016.png" />
+      <FilePathData Path="animation/longzha/bloom/bloom_00017.png" />
+      <FilePathData Path="animation/longzha/bloom/bloom_00018.png" />
+      <FilePathData Path="animation/longzha/bloom/bloom_00019.png" />
+      <FilePathData Path="animation/longzha/bloom/bloom_00020.png" />
+      <FilePathData Path="animation/longzha/bloom/bloom_00021.png" />
+      <FilePathData Path="animation/longzha/bloom/bloom_00022.png" />
+      <FilePathData Path="animation/longzha/bloom/bloom_00023.png" />
+      <FilePathData Path="animation/longzha/bloom/bloom_00024.png" />
+      <FilePathData Path="animation/longzha/bloom/bloom_00025.png" />
+      <FilePathData Path="animation/longzha/bloom/bloom_00026.png" />
+      <FilePathData Path="animation/longzha/bloom/bloom_00027.png" />
+      <FilePathData Path="animation/longzha/bloom/bloom_00028.png" />
+      <FilePathData Path="animation/longzha/bloom/bloom_00029.png" />
+      <FilePathData Path="animation/longzha/bloom/bloom_00030.png" />
+      <FilePathData Path="animation/longzha/bloom/bloom_00031.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

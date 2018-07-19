@@ -1,0 +1,25 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="zhaohuihaoyou" Type="Plist" ID="24fa870e-dcc0-422b-b553-bbeb43b568db" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="ui/recallactvity/gu/zhaohuihaoyou/zhaohuihaoyou_00002.png" />
+      <FilePathData Path="ui/recallactvity/gu/zhaohuihaoyou/zhaohuihaoyou_00003.png" />
+      <FilePathData Path="ui/recallactvity/gu/zhaohuihaoyou/zhaohuihaoyou_00004.png" />
+      <FilePathData Path="ui/recallactvity/gu/zhaohuihaoyou/zhaohuihaoyou_00005.png" />
+      <FilePathData Path="ui/recallactvity/gu/zhaohuihaoyou/zhaohuihaoyou_00006.png" />
+      <FilePathData Path="ui/recallactvity/gu/zhaohuihaoyou/zhaohuihaoyou_00007.png" />
+      <FilePathData Path="ui/recallactvity/gu/zhaohuihaoyou/zhaohuihaoyou_00008.png" />
+      <FilePathData Path="ui/recallactvity/gu/zhaohuihaoyou/zhaohuihaoyou_00009.png" />
+      <FilePathData Path="ui/recallactvity/gu/zhaohuihaoyou/zhaohuihaoyou_00010.png" />
+      <FilePathData Path="ui/recallactvity/gu/zhaohuihaoyou/zhaohuihaoyou_00011.png" />
+      <FilePathData Path="ui/recallactvity/gu/zhaohuihaoyou/zhaohuihaoyou_00012.png" />
+      <FilePathData Path="ui/recallactvity/gu/zhaohuihaoyou/zhaohuihaoyou_00013.png" />
+      <FilePathData Path="ui/recallactvity/gu/zhaohuihaoyou/zhaohuihaoyou_00014.png" />
+      <FilePathData Path="ui/recallactvity/gu/zhaohuihaoyou/zhaohuihaoyou_00015.png" />
+      <FilePathData Path="ui/recallactvity/gu/zhaohuihaoyou/zhaohuihaoyou_00016.png" />
+      <FilePathData Path="ui/recallactvity/gu/zhaohuihaoyou/zhaohuihaoyou_00017.png" />
+      <FilePathData Path="ui/recallactvity/gu/zhaohuihaoyou/zhaohuihaoyou_00018.png" />
+    </ImageFiles>
+    <MaxSize Width="256" Height="256" />
+  </Content>
+</PlistInfoProjectFile>

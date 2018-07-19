@@ -1,0 +1,202 @@
+<Solution>
+  <PropertyGroup Name="zipai" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="ui">
+          <Folder Name="common">
+            <Image Name="bg.jpg" />
+            <Image Name="bg_1108.png" />
+            <Image Name="bg_540.png" />
+            <Image Name="bg_864.png" />
+            <Image Name="bg1.png" />
+            <Image Name="bg2.png" />
+            <Image Name="btn_blue_180.png" />
+            <Image Name="btn_close.png" />
+            <Image Name="btn_orange_180.png" />
+            <Image Name="createroom_2.png" />
+            <Image Name="createroom_3.png" />
+            <TTF Name="DFYuanW7-GB2312.ttf" />
+            <Image Name="null.png" />
+            <Image Name="redpoint.png" />
+          </Folder>
+          <Folder Name="CustomerserviceView">
+            <Image Name="bg_628.png" />
+            <Image Name="bg_810.png" />
+            <Image Name="cpdss01.png" />
+            <Image Name="img1.png" />
+            <Project Name="msgView.csd" Type="Node" />
+            <Image Name="QR code .png" />
+            <Image Name="title_kefu.png" />
+            <Image Name="title_xiaoxi.png" />
+          </Folder>
+          <Folder Name="playerinfo">
+            <Folder Name="daoshui">
+              <Project Name="daoshui.csd" Type="Node" />
+              <PlistInfo Name="daoshui.csi" Type="Plist" />
+              <Image Name="daoshui-bk.png" />
+              <Image Name="daoshui-dt.png" />
+              <Image Name="daoshui-s2.png" />
+              <Image Name="daoshui-s3.png" />
+              <Image Name="daoshui-shuidi.png" />
+              <Image Name="daoshui-st.png" />
+              <Image Name="daoshui-sz1.png" />
+              <Image Name="daoshui-sz2.png" />
+              <Image Name="daoshui-sz3.png" />
+              <Image Name="daoshui-sz4.png" />
+              <Image Name="daoshui-yan.png" />
+            </Folder>
+            <Folder Name="fanggou">
+              <Project Name="fanggou.csd" Type="Node" />
+              <PlistInfo Name="fanggou.csi" Type="Plist" />
+              <Image Name="fgyao0_01_03.png" />
+              <Image Name="fgyao0_01_04.png" />
+              <Image Name="fgyao0_01_05.png" />
+              <Image Name="fgyao0_01_06.png" />
+              <Image Name="fgyao0_01_08.png" />
+              <Image Name="fgyao0_01_10.png" />
+              <Image Name="fgyao0_01_11.png" />
+              <Image Name="fgyao0_01_12.png" />
+              <Image Name="fgyao0_01_13.png" />
+              <Image Name="fgyao0_01_14.png" />
+              <Image Name="fgyao0_09.png" />
+              <Image Name="fgyao0_10.png" />
+              <Image Name="fgyao0_15.png" />
+              <Image Name="fgyao0_17.png" />
+              <Image Name="fgyao0_18.png" />
+              <Image Name="fgyao0_19.png" />
+              <Image Name="fgyao0_23.png" />
+              <Image Name="fgyao0_24.png" />
+            </Folder>
+            <Folder Name="liulian">
+              <Project Name="liulian.csd" Type="Node" />
+              <PlistInfo Name="liulian.csi" Type="Plist" />
+              <Image Name="liulian-2.png" />
+              <Image Name="liulian-ll1.png" />
+              <Image Name="liulian-t1.png" />
+              <Image Name="liulian-t10.png" />
+              <Image Name="liulian-t11.png" />
+              <Image Name="liulian-t3.png" />
+              <Image Name="liulian-t4.png" />
+              <Image Name="liulian-t5.png" />
+              <Image Name="liulian-t6.png" />
+              <Image Name="liulian-t7.png" />
+              <Image Name="liulian-t8.png" />
+              <Image Name="liulian-t9.png" />
+              <Image Name="liulian-yy1.png" />
+              <Image Name="liulian-yy2.png" />
+              <Image Name="liulian-yy3.png" />
+              <Image Name="liulian-yy4.png" />
+              <Image Name="liulian-yy5.png" />
+              <Image Name="liulian-yy6.png" />
+            </Folder>
+            <Folder Name="pengbei">
+              <Project Name="pengbei.csd" Type="Node" />
+              <PlistInfo Name="pengbei.csi" Type="Plist" />
+              <Image Name="pengbei-b1.png" />
+              <Image Name="pengbei-b10.png" />
+              <Image Name="pengbei-b11.png" />
+              <Image Name="pengbei-b5.png" />
+              <Image Name="pengbei-b6.png" />
+              <Image Name="pengbei-b7.png" />
+              <Image Name="pengbei-b8.png" />
+              <Image Name="pengbei-b9.png" />
+              <Image Name="pengbei-bijiu1.png" />
+              <Image Name="pengbei-pp1.png" />
+              <Image Name="pengbei-w1.png" />
+              <Image Name="pengbei-w2.png" />
+              <Image Name="pengbei-w3.png" />
+              <Image Name="pengbei-w4.png" />
+              <Image Name="pengbei-w5.png" />
+              <Image Name="pengbei-w6.png" />
+              <Image Name="pengbei-w7.png" />
+              <Image Name="pengbei-yt.png" />
+              <Image Name="pengbei-yt2.png" />
+              <Image Name="pengbei-yt3.png" />
+            </Folder>
+            <Folder Name="tuoxie">
+              <Project Name="tuoxie.csd" Type="Node" />
+              <PlistInfo Name="tuoxie.csi" Type="Plist" />
+              <Image Name="tuoxie0_03.png" />
+              <Image Name="tuoxie0_06.png" />
+              <Image Name="tuoxie0_08.png" />
+              <Image Name="tuoxie0_14.png" />
+              <Image Name="tuoxie0_15.png" />
+              <Image Name="tuoxie0_17.png" />
+              <Image Name="tuoxie0_19.png" />
+              <Image Name="tuoxie0_22.png" />
+              <Image Name="tuoxie0_23.png" />
+            </Folder>
+            <Folder Name="zhadan">
+              <Project Name="zhadan.csd" Type="Node" />
+              <PlistInfo Name="zhadan.csi" Type="Plist" />
+              <Image Name="zhadan-f1.png" />
+              <Image Name="zhadan-f2.png" />
+              <Image Name="zhadan-f3.png" />
+              <Image Name="zhadan-f4.png" />
+              <Image Name="zhadan-f5.png" />
+              <Image Name="zhadan-hei.png" />
+              <Image Name="zhadan-x1.png" />
+              <Image Name="zhadan-x2.png" />
+              <Image Name="zhadan-x3.png" />
+              <Image Name="zhadan-x4.png" />
+              <Image Name="zhadan-x5.png" />
+              <Image Name="zhadan-x6.png" />
+              <Image Name="zhadan-x7.png" />
+              <Image Name="zhadan-x8.png" />
+              <Image Name="zhadan-x9.png" />
+              <Image Name="zhadan-xx.png" />
+              <Image Name="zhadan-yz.png" />
+              <Image Name="zhadan-z1.png" />
+              <Image Name="zhadan-zz1.png" />
+              <Image Name="zhadan-zz2.png" />
+            </Folder>
+            <Folder Name="zhuaji">
+              <Project Name="zhuaji.csd" Type="Node" />
+              <PlistInfo Name="zhuaji.csi" Type="Plist" />
+              <Image Name="zhuaji-1.png" />
+              <Image Name="zhuaji-10.png" />
+              <Image Name="zhuaji-11.png" />
+              <Image Name="zhuaji-12.png" />
+              <Image Name="zhuaji-13.png" />
+              <Image Name="zhuaji-14.png" />
+              <Image Name="zhuaji-15.png" />
+              <Image Name="zhuaji-16.png" />
+              <Image Name="zhuaji-17.png" />
+              <Image Name="zhuaji-2.png" />
+              <Image Name="zhuaji-3.png" />
+              <Image Name="zhuaji-4.png" />
+              <Image Name="zhuaji-5.png" />
+              <Image Name="zhuaji-6.png" />
+              <Image Name="zhuaji-7.png" />
+              <Image Name="zhuaji-8.png" />
+              <Image Name="zhuaji-9.png" />
+            </Folder>
+            <Image Name="bg_628.png" />
+            <Image Name="bg_810.png" />
+            <Image Name="btn.png" />
+            <Image Name="female.png" />
+            <Image Name="headframe_100.png" />
+            <Image Name="line (1).png" />
+            <Image Name="line.png" />
+            <Image Name="male.png" />
+            <Project Name="playInfoView.csd" Type="Node" />
+            <Project Name="playInfoView_old.csd" Type="Node" />
+            <Project Name="playInfoView2.csd" Type="Node" />
+            <Project Name="playInfoViewforgame.csd" Type="Node" />
+            <Image Name="tit_personalinfo.png" />
+          </Folder>
+          <Folder Name="setrealname">
+            <Image Name="btn_blue_250.png" />
+            <Project Name="setrealname.csd" Type="Node" />
+            <Image Name="text_back.png" />
+            <Image Name="text_confirm.png" />
+            <Image Name="text_renzhen.png" />
+            <Image Name="text_renzhen1.png" />
+            <Image Name="title_verify.png" />
+          </Folder>
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

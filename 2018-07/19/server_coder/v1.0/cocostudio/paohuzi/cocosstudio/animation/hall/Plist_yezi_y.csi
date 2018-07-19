@@ -1,0 +1,32 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="Plist_yezi_y" Type="Plist" ID="7f711e05-a4bc-4287-9b10-bebf362daca6" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="animation/yezi_y/1__00000.png" />
+      <FilePathData Path="animation/yezi_y/1__00004.png" />
+      <FilePathData Path="animation/yezi_y/1__00008.png" />
+      <FilePathData Path="animation/yezi_y/1__00012.png" />
+      <FilePathData Path="animation/yezi_y/1__00016.png" />
+      <FilePathData Path="animation/yezi_y/1__00020.png" />
+      <FilePathData Path="animation/yezi_y/1__00024.png" />
+      <FilePathData Path="animation/yezi_y/1__00028.png" />
+      <FilePathData Path="animation/yezi_y/1__00032.png" />
+      <FilePathData Path="animation/yezi_y/1__00036.png" />
+      <FilePathData Path="animation/yezi_y/1__00040.png" />
+      <FilePathData Path="animation/yezi_y/1__00044.png" />
+      <FilePathData Path="animation/yezi_y/1__00048.png" />
+      <FilePathData Path="animation/yezi_y/1__00052.png" />
+      <FilePathData Path="animation/yezi_y/1__00056.png" />
+      <FilePathData Path="animation/yezi_y/1__00060.png" />
+      <FilePathData Path="animation/yezi_y/1__00064.png" />
+      <FilePathData Path="animation/yezi_y/1__00068.png" />
+      <FilePathData Path="animation/yezi_y/1__00072.png" />
+      <FilePathData Path="animation/yezi_y/1__00076.png" />
+      <FilePathData Path="animation/yezi_y/1__00080.png" />
+      <FilePathData Path="animation/yezi_y/1__00084.png" />
+      <FilePathData Path="animation/yezi_y/1__00088.png" />
+      <FilePathData Path="animation/yezi_y/1__00092.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

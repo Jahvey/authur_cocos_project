@@ -1,0 +1,6 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="Plist_lizi_l" Type="Plist" ID="54a6fc13-b381-4b14-96bd-6898d64f28dd" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

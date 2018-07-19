@@ -1,0 +1,6 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="paimian_sg" Type="Plist" ID="1528c3ca-04c0-4a1f-8809-bd75d9f64efa" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <MaxSize Width="256" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

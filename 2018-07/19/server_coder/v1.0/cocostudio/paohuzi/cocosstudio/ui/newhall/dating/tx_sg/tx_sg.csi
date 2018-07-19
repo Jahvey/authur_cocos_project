@@ -1,0 +1,6 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="tx_sg" Type="Plist" ID="1106ff7c-12b4-42ea-8469-5da8d71427c6" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <MaxSize Width="256" Height="256" />
+  </Content>
+</PlistInfoProjectFile>

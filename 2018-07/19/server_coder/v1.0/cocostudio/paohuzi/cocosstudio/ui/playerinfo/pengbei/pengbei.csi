@@ -1,0 +1,28 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="pengbei" Type="Plist" ID="bf60bc00-cfae-4e9e-b108-34f0076a71a1" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="ui/playerinfo/pengbei/pengbei-b1.png" />
+      <FilePathData Path="ui/playerinfo/pengbei/pengbei-b10.png" />
+      <FilePathData Path="ui/playerinfo/pengbei/pengbei-b11.png" />
+      <FilePathData Path="ui/playerinfo/pengbei/pengbei-b5.png" />
+      <FilePathData Path="ui/playerinfo/pengbei/pengbei-b6.png" />
+      <FilePathData Path="ui/playerinfo/pengbei/pengbei-b7.png" />
+      <FilePathData Path="ui/playerinfo/pengbei/pengbei-b8.png" />
+      <FilePathData Path="ui/playerinfo/pengbei/pengbei-b9.png" />
+      <FilePathData Path="ui/playerinfo/pengbei/pengbei-bijiu1.png" />
+      <FilePathData Path="ui/playerinfo/pengbei/pengbei-pp1.png" />
+      <FilePathData Path="ui/playerinfo/pengbei/pengbei-w1.png" />
+      <FilePathData Path="ui/playerinfo/pengbei/pengbei-w2.png" />
+      <FilePathData Path="ui/playerinfo/pengbei/pengbei-w3.png" />
+      <FilePathData Path="ui/playerinfo/pengbei/pengbei-w4.png" />
+      <FilePathData Path="ui/playerinfo/pengbei/pengbei-w5.png" />
+      <FilePathData Path="ui/playerinfo/pengbei/pengbei-w6.png" />
+      <FilePathData Path="ui/playerinfo/pengbei/pengbei-w7.png" />
+      <FilePathData Path="ui/playerinfo/pengbei/pengbei-yt.png" />
+      <FilePathData Path="ui/playerinfo/pengbei/pengbei-yt2.png" />
+      <FilePathData Path="ui/playerinfo/pengbei/pengbei-yt3.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

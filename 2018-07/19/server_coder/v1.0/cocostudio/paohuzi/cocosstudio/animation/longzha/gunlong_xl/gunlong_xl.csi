@@ -1,0 +1,29 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="gunlong_xl" Type="Plist" ID="68832d6b-94c7-4cde-9271-e58156abcda5" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="animation/longzha/gunlong_xl/gunlong_00011.png" />
+      <FilePathData Path="animation/longzha/gunlong_xl/gunlong_00013.png" />
+      <FilePathData Path="animation/longzha/gunlong_xl/gunlong_00015.png" />
+      <FilePathData Path="animation/longzha/gunlong_xl/gunlong_00017.png" />
+      <FilePathData Path="animation/longzha/gunlong_xl/gunlong_00019.png" />
+      <FilePathData Path="animation/longzha/gunlong_xl/gunlong_00021.png" />
+      <FilePathData Path="animation/longzha/gunlong_xl/gunlong_00023.png" />
+      <FilePathData Path="animation/longzha/gunlong_xl/gunlong_00025.png" />
+      <FilePathData Path="animation/longzha/gunlong_xl/gunlong_00027.png" />
+      <FilePathData Path="animation/longzha/gunlong_xl/gunlong_00029.png" />
+      <FilePathData Path="animation/longzha/gunlong_xl/gunlong_00031.png" />
+      <FilePathData Path="animation/longzha/gunlong_xl/gunlong_00033.png" />
+      <FilePathData Path="animation/longzha/gunlong_xl/gunlong_00035.png" />
+      <FilePathData Path="animation/longzha/gunlong_xl/gunlong_00037.png" />
+      <FilePathData Path="animation/longzha/gunlong_xl/gunlong_00039.png" />
+      <FilePathData Path="animation/longzha/gunlong_xl/gunlong_00041.png" />
+      <FilePathData Path="animation/longzha/gunlong_xl/gunlong_00043.png" />
+      <FilePathData Path="animation/longzha/gunlong_xl/gunlong_00045.png" />
+      <FilePathData Path="animation/longzha/gunlong_xl/gunlong_00047.png" />
+      <FilePathData Path="animation/longzha/gunlong_xl/gunlong_00049.png" />
+      <FilePathData Path="animation/longzha/gunlong_xl/gunlong_00051.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

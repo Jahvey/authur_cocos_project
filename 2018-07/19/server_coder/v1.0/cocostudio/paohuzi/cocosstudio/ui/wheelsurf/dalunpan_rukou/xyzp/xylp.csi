@@ -1,0 +1,29 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="xylp" Type="Plist" ID="4e815b76-ae77-4dd9-877f-9c66f2059952" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="ui/wheelsurf/dalunpan_rukou/xyzp/xyzp_00000.png" />
+      <FilePathData Path="ui/wheelsurf/dalunpan_rukou/xyzp/xyzp_00001.png" />
+      <FilePathData Path="ui/wheelsurf/dalunpan_rukou/xyzp/xyzp_00002.png" />
+      <FilePathData Path="ui/wheelsurf/dalunpan_rukou/xyzp/xyzp_00003.png" />
+      <FilePathData Path="ui/wheelsurf/dalunpan_rukou/xyzp/xyzp_00004.png" />
+      <FilePathData Path="ui/wheelsurf/dalunpan_rukou/xyzp/xyzp_00005.png" />
+      <FilePathData Path="ui/wheelsurf/dalunpan_rukou/xyzp/xyzp_00006.png" />
+      <FilePathData Path="ui/wheelsurf/dalunpan_rukou/xyzp/xyzp_00007.png" />
+      <FilePathData Path="ui/wheelsurf/dalunpan_rukou/xyzp/xyzp_00008.png" />
+      <FilePathData Path="ui/wheelsurf/dalunpan_rukou/xyzp/xyzp_00009.png" />
+      <FilePathData Path="ui/wheelsurf/dalunpan_rukou/xyzp/xyzp_00010.png" />
+      <FilePathData Path="ui/wheelsurf/dalunpan_rukou/xyzp/xyzp_00011.png" />
+      <FilePathData Path="ui/wheelsurf/dalunpan_rukou/xyzp/xyzp_00012.png" />
+      <FilePathData Path="ui/wheelsurf/dalunpan_rukou/xyzp/xyzp_00013.png" />
+      <FilePathData Path="ui/wheelsurf/dalunpan_rukou/xyzp/xyzp_00014.png" />
+      <FilePathData Path="ui/wheelsurf/dalunpan_rukou/xyzp/xyzp_00015.png" />
+      <FilePathData Path="ui/wheelsurf/dalunpan_rukou/xyzp/xyzp_00016.png" />
+      <FilePathData Path="ui/wheelsurf/dalunpan_rukou/xyzp/xyzp_00017.png" />
+      <FilePathData Path="ui/wheelsurf/dalunpan_rukou/xyzp/xyzp_00018.png" />
+      <FilePathData Path="ui/wheelsurf/dalunpan_rukou/xyzp/xyzp_00019.png" />
+      <FilePathData Path="ui/wheelsurf/dalunpan_rukou/xyzp/xyzp_00020.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

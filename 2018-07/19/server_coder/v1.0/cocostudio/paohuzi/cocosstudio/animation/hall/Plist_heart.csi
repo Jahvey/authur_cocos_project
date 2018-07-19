@@ -1,0 +1,29 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="Plist_heart" Type="Plist" ID="4448dc82-35eb-4fbd-9c78-a5730dbab3d7" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="animation/heart/1__00000.png" />
+      <FilePathData Path="animation/heart/1__00001.png" />
+      <FilePathData Path="animation/heart/1__00002.png" />
+      <FilePathData Path="animation/heart/1__00003.png" />
+      <FilePathData Path="animation/heart/1__00004.png" />
+      <FilePathData Path="animation/heart/1__00005.png" />
+      <FilePathData Path="animation/heart/1__00006.png" />
+      <FilePathData Path="animation/heart/1__00007.png" />
+      <FilePathData Path="animation/heart/1__00008.png" />
+      <FilePathData Path="animation/heart/1__00009.png" />
+      <FilePathData Path="animation/heart/1__00010.png" />
+      <FilePathData Path="animation/heart/1__00011.png" />
+      <FilePathData Path="animation/heart/1__00012.png" />
+      <FilePathData Path="animation/heart/1__00013.png" />
+      <FilePathData Path="animation/heart/1__00014.png" />
+      <FilePathData Path="animation/heart/1__00015.png" />
+      <FilePathData Path="animation/heart/1__00016.png" />
+      <FilePathData Path="animation/heart/1__00017.png" />
+      <FilePathData Path="animation/heart/1__00018.png" />
+      <FilePathData Path="animation/heart/1__00019.png" />
+      <FilePathData Path="animation/heart/1__00020.png" />
+    </ImageFiles>
+    <MaxSize Width="4096" Height="4096" />
+  </Content>
+</PlistInfoProjectFile>
